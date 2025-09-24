@@ -1,0 +1,2 @@
+# AI-in-National-Security-Coursera-Special-Competitive-Studies-Project
+This is a Free Coursera (no certificate) course called: AI-in-National-Security-Integrating-Artificial-Intelligence-into-Public-Sector-Missions created and published by Special Competitive Studies Project.  The Special Competitive Studies Project (SCSP) is a non-partisan, non-profit project covering: foreign policy, intelligence, defense, economy.
